@@ -2,6 +2,8 @@
 
 # Batali
 
+[![Join the chat at https://gitter.im/kenny-evitt/batali](https://badges.gitter.im/kenny-evitt/batali.svg)](https://gitter.im/kenny-evitt/batali?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Batali is a light weight cookbook resolver. It is now in
 a beta state, moving quickly towards a proper stable release.
 
